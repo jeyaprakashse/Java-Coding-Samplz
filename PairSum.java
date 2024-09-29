@@ -1,7 +1,7 @@
 public class PairSum{
     public static void main(String[] args) {
-        int array[]={2,3,1,3,4,1,3,6};
-        int target=6;
+        int array[]={1,19,3,4,1,8,2,0};
+        int target=7;
         for(int i=0;i<array.length;i++)
         {
             for (int j = i+1; j < array.length; j++) {
